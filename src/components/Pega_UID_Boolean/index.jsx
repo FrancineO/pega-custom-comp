@@ -124,8 +124,6 @@ const PegaUidBoolean = props => {
     </CheckboxGroup>
     </StyledPegaUidBooleanWrapper>
   );
-
-
 };
 
 
